@@ -1,0 +1,16 @@
+[
+{
+  "modid": "hunger-tweaks",
+  "name": "Hunger Tweaks",
+  "description": "Modifies the 1.10.2 hunger mechanics to be that of minecraft 1.11",
+  "version": 1.10.2-1.0,
+  "mcversion": 1.10.2,
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Qur"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

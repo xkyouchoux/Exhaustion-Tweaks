@@ -133,7 +133,7 @@ public class EClassTransformer implements IClassTransformer{
 					tmp.clear();
 					queueInstructionsRemoval(inst, mNode);
 				}else if(cstNode.cst.equals(.015F)){
-					cstNode.cst = 01F;
+					cstNode.cst = .01F;
 				}
 			}
 		}
